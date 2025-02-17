@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shipment: one
+  partable: one
+  partable_type: Partable
+  quantity: 1
+  unit_price: 1
+  total_price: 1
+
+two:
+  shipment: two
+  partable: two
+  partable_type: Partable
+  quantity: 1
+  unit_price: 1
+  total_price: 1

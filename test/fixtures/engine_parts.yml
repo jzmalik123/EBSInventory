@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ebs_number: MyString
+  car_make: MyString
+  chassis_number: MyString
+  engine_number: MyString
+  engine_cc: 1
+
+two:
+  ebs_number: MyString
+  car_make: MyString
+  chassis_number: MyString
+  engine_number: MyString
+  engine_cc: 1

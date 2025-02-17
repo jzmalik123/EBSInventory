@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  invoice_number: MyString
+  date: 2025-02-10
+  shipped_from_country: MyString
+  shipped_from_city: MyString
+  shipped_to_country: MyString
+  shipped_to_city: MyString
+  container_number: MyString
+  EBS_number: MyString
+  sold_to_company: MyString
+  sold_to_address: MyString
+  sold_to_zip: MyString
+  sold_to_email: MyString
+  sold_to_phone: MyString
+  total_quantity: 1
+  total_amount: 1
+
+two:
+  invoice_number: MyString
+  date: 2025-02-10
+  shipped_from_country: MyString
+  shipped_from_city: MyString
+  shipped_to_country: MyString
+  shipped_to_city: MyString
+  container_number: MyString
+  EBS_number: MyString
+  sold_to_company: MyString
+  sold_to_address: MyString
+  sold_to_zip: MyString
+  sold_to_email: MyString
+  sold_to_phone: MyString
+  total_quantity: 1
+  total_amount: 1
